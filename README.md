@@ -54,4 +54,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
+## Math
+|  |
+| ------- |
+| [2769-find-the-maximum-achievable-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/2769-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
