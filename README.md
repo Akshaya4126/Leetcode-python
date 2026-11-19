@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
 | [0119-pascals-triangle-ii](https://github.com/Akshaya4126/Leetcode-python/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Akshaya4126/Leetcode-python/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya4126/Leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Akshaya4126/Leetcode-python/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Akshaya4126/Leetcode-python/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya4126/Leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Akshaya4126/Leetcode-python/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Backtracking
 |  |
