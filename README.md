@@ -80,6 +80,7 @@
 | [0009-palindrome-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akshaya4126/Leetcode-python/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Akshaya4126/Leetcode-python/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/Akshaya4126/Leetcode-python/tree/master/0258-add-digits) |
 | [1447-simplified-fractions](https://github.com/Akshaya4126/Leetcode-python/tree/master/1447-simplified-fractions) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
@@ -96,6 +97,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Akshaya4126/Leetcode-python/tree/master/0258-add-digits) |
 | [1447-simplified-fractions](https://github.com/Akshaya4126/Leetcode-python/tree/master/1447-simplified-fractions) |
 ## Euclidean Algorithm
 |  |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Akshaya4126/Leetcode-python/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Akshaya4126/Leetcode-python/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
