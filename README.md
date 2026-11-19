@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Akshaya4126/Leetcode-python/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,16 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Akshaya4126/Leetcode-python/tree/master/0232-implement-queue-using-stacks) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
+## String
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
