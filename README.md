@@ -6,6 +6,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Akshaya4126/Leetcode-python/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
+| [0119-pascals-triangle-ii](https://github.com/Akshaya4126/Leetcode-python/tree/master/0119-pascals-triangle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/Akshaya4126/Leetcode-python/tree/master/0119-pascals-triangle-ii) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Akshaya4126/Leetcode-python/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Backtracking
 |  |
