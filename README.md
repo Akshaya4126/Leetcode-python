@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Akshaya4126/Leetcode-python/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Akshaya4126/Leetcode-python/tree/master/0069-sqrtx) |
 ## Tree
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0009-palindrome-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akshaya4126/Leetcode-python/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Akshaya4126/Leetcode-python/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Akshaya4126/Leetcode-python/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Akshaya4126/Leetcode-python/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
 | [1447-simplified-fractions](https://github.com/Akshaya4126/Leetcode-python/tree/master/1447-simplified-fractions) |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Akshaya4126/Leetcode-python/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
