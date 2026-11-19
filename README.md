@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Akshaya4126/Leetcode-python/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Akshaya4126/Leetcode-python/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Akshaya4126/Leetcode-python/tree/master/0066-plus-one) |
 | [0119-pascals-triangle-ii](https://github.com/Akshaya4126/Leetcode-python/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Akshaya4126/Leetcode-python/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya4126/Leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akshaya4126/Leetcode-python/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Akshaya4126/Leetcode-python/tree/master/0066-plus-one) |
 | [1447-simplified-fractions](https://github.com/Akshaya4126/Leetcode-python/tree/master/1447-simplified-fractions) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
