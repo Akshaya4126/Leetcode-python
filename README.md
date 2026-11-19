@@ -42,6 +42,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Akshaya4126/Leetcode-python/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Akshaya4126/Leetcode-python/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -63,6 +64,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Akshaya4126/Leetcode-python/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Akshaya4126/Leetcode-python/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Akshaya4126/Leetcode-python/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaya4126/Leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
 | [1447-simplified-fractions](https://github.com/Akshaya4126/Leetcode-python/tree/master/1447-simplified-fractions) |
@@ -144,4 +146,8 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Akshaya4126/Leetcode-python/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
