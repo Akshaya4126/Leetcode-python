@@ -81,6 +81,7 @@
 | [0013-roman-to-integer](https://github.com/Akshaya4126/Leetcode-python/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Akshaya4126/Leetcode-python/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/Akshaya4126/Leetcode-python/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
 | [1447-simplified-fractions](https://github.com/Akshaya4126/Leetcode-python/tree/master/1447-simplified-fractions) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
@@ -89,6 +90,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Akshaya4126/Leetcode-python/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Akshaya4126/Leetcode-python/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya4126/Leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Akshaya4126/Leetcode-python/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Backtracking
 |  |
@@ -142,6 +144,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akshaya4126/Leetcode-python/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -158,4 +161,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Akshaya4126/Leetcode-python/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
