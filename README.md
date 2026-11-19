@@ -82,6 +82,7 @@
 | [0013-roman-to-integer](https://github.com/Akshaya4126/Leetcode-python/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Akshaya4126/Leetcode-python/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Akshaya4126/Leetcode-python/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Akshaya4126/Leetcode-python/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Akshaya4126/Leetcode-python/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/1137-n-th-tribonacci-number) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akshaya4126/Leetcode-python/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/Akshaya4126/Leetcode-python/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -174,4 +176,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Akshaya4126/Leetcode-python/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Akshaya4126/Leetcode-python/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
