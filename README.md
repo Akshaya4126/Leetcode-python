@@ -51,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaya4126/Leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
 | [1447-simplified-fractions](https://github.com/Akshaya4126/Leetcode-python/tree/master/1447-simplified-fractions) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Akshaya4126/Leetcode-python/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
@@ -84,4 +85,24 @@
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/Akshaya4126/Leetcode-python/tree/master/1447-simplified-fractions) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaya4126/Leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaya4126/Leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaya4126/Leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaya4126/Leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaya4126/Leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
