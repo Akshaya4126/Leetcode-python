@@ -84,6 +84,7 @@
 | [0069-sqrtx](https://github.com/Akshaya4126/Leetcode-python/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/Akshaya4126/Leetcode-python/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/1137-n-th-tribonacci-number) |
 | [1447-simplified-fractions](https://github.com/Akshaya4126/Leetcode-python/tree/master/1447-simplified-fractions) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/2769-find-the-maximum-achievable-number) |
 ## Dynamic Programming
@@ -93,6 +94,7 @@
 | [0120-triangle](https://github.com/Akshaya4126/Leetcode-python/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya4126/Leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/1137-n-th-tribonacci-number) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Akshaya4126/Leetcode-python/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Backtracking
 |  |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/1137-n-th-tribonacci-number) |
 ## Newton's Method
 |  |
 | ------- |
