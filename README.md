@@ -71,6 +71,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akshaya4126/Leetcode-python/tree/master/0013-roman-to-integer) |
 | [1447-simplified-fractions](https://github.com/Akshaya4126/Leetcode-python/tree/master/1447-simplified-fractions) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/2769-find-the-maximum-achievable-number) |
