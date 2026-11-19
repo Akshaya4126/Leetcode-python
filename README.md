@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0226-invert-binary-tree) |
 ## Stack
 |  |
@@ -129,8 +131,17 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akshaya4126/Leetcode-python/tree/master/0021-merge-two-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akshaya4126/Leetcode-python/tree/master/0021-merge-two-sorted-lists) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
