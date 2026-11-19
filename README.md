@@ -25,11 +25,13 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -41,6 +43,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
@@ -180,4 +183,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Akshaya4126/Leetcode-python/tree/master/0231-power-of-two) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
