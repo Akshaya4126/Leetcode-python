@@ -158,6 +158,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Akshaya4126/Leetcode-python/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Akshaya4126/Leetcode-python/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Recursion
 |  |
