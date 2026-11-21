@@ -94,6 +94,7 @@
 | [0066-plus-one](https://github.com/Akshaya4126/Leetcode-python/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Akshaya4126/Leetcode-python/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Akshaya4126/Leetcode-python/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Akshaya4126/Leetcode-python/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Akshaya4126/Leetcode-python/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Akshaya4126/Leetcode-python/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
@@ -103,6 +104,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akshaya4126/Leetcode-python/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/Akshaya4126/Leetcode-python/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Akshaya4126/Leetcode-python/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya4126/Leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -184,6 +186,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Akshaya4126/Leetcode-python/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/1137-n-th-tribonacci-number) |
 ## Newton's Method
