@@ -78,6 +78,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Akshaya4126/Leetcode-python/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Akshaya4126/Leetcode-python/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Akshaya4126/Leetcode-python/tree/master/0067-add-binary) |
 | [1447-simplified-fractions](https://github.com/Akshaya4126/Leetcode-python/tree/master/1447-simplified-fractions) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Akshaya4126/Leetcode-python/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## Sorting
@@ -91,6 +92,7 @@
 | [0009-palindrome-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Akshaya4126/Leetcode-python/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Akshaya4126/Leetcode-python/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Akshaya4126/Leetcode-python/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Akshaya4126/Leetcode-python/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Akshaya4126/Leetcode-python/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Akshaya4126/Leetcode-python/tree/master/0258-add-digits) |
@@ -177,6 +179,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akshaya4126/Leetcode-python/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Akshaya4126/Leetcode-python/tree/master/0258-add-digits) |
 ## Memoization
 |  |
@@ -190,6 +193,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akshaya4126/Leetcode-python/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Akshaya4126/Leetcode-python/tree/master/0231-power-of-two) |
 ## DP on Trees
 |  |
