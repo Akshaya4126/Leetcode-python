@@ -14,6 +14,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Akshaya4126/Leetcode-python/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Akshaya4126/Leetcode-python/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya4126/Leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0001-two-sum](https://github.com/Akshaya4126/Leetcode-python/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Akshaya4126/Leetcode-python/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/Akshaya4126/Leetcode-python/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 ## String
 |  |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -158,6 +161,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -187,4 +191,20 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0543-diameter-of-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
