@@ -22,6 +22,7 @@
 | [0120-triangle](https://github.com/Akshaya4126/Leetcode-python/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya4126/Leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
+| [1514-path-with-maximum-probability](https://github.com/Akshaya4126/Leetcode-python/tree/master/1514-path-with-maximum-probability) |
 ## Binary Search
 |  |
 | ------- |
@@ -273,6 +274,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Akshaya4126/Leetcode-python/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Akshaya4126/Leetcode-python/tree/master/1514-path-with-maximum-probability) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -309,13 +311,16 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Akshaya4126/Leetcode-python/tree/master/1514-path-with-maximum-probability) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshaya4126/Leetcode-python/tree/master/1971-find-if-path-exists-in-graph) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Akshaya4126/Leetcode-python/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Akshaya4126/Leetcode-python/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
