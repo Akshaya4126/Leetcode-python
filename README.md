@@ -49,6 +49,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0543-diameter-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshaya4126/Leetcode-python/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -58,6 +59,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Akshaya4126/Leetcode-python/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0226-invert-binary-tree) |
+| [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshaya4126/Leetcode-python/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -270,6 +272,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Akshaya4126/Leetcode-python/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -305,5 +308,14 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshaya4126/Leetcode-python/tree/master/1971-find-if-path-exists-in-graph) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
