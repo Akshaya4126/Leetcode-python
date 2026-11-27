@@ -93,6 +93,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Akshaya4126/Leetcode-python/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/Akshaya4126/Leetcode-python/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
@@ -107,6 +108,7 @@
 | [0013-roman-to-integer](https://github.com/Akshaya4126/Leetcode-python/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akshaya4126/Leetcode-python/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Akshaya4126/Leetcode-python/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Akshaya4126/Leetcode-python/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Akshaya4126/Leetcode-python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akshaya4126/Leetcode-python/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
@@ -233,6 +235,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Akshaya4126/Leetcode-python/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akshaya4126/Leetcode-python/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0146-lru-cache](https://github.com/Akshaya4126/Leetcode-python/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Akshaya4126/Leetcode-python/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -352,4 +355,8 @@
 | [0200-number-of-islands](https://github.com/Akshaya4126/Leetcode-python/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Akshaya4126/Leetcode-python/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Akshaya4126/Leetcode-python/tree/master/0733-flood-fill) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Akshaya4126/Leetcode-python/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
