@@ -21,6 +21,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Akshaya4126/Leetcode-python/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Akshaya4126/Leetcode-python/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akshaya4126/Leetcode-python/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/Akshaya4126/Leetcode-python/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akshaya4126/Leetcode-python/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akshaya4126/Leetcode-python/tree/master/0347-top-k-frequent-elements) |
 | [1514-path-with-maximum-probability](https://github.com/Akshaya4126/Leetcode-python/tree/master/1514-path-with-maximum-probability) |
@@ -49,6 +50,7 @@
 | [0100-same-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Akshaya4126/Leetcode-python/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
@@ -60,6 +62,7 @@
 | [0101-symmetric-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akshaya4126/Leetcode-python/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Akshaya4126/Leetcode-python/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Akshaya4126/Leetcode-python/tree/master/0226-invert-binary-tree) |
 | [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshaya4126/Leetcode-python/tree/master/1971-find-if-path-exists-in-graph) |
@@ -311,6 +314,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Akshaya4126/Leetcode-python/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Akshaya4126/Leetcode-python/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -328,4 +332,8 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Akshaya4126/Leetcode-python/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Akshaya4126/Leetcode-python/tree/master/1514-path-with-maximum-probability) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Akshaya4126/Leetcode-python/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
